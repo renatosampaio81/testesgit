@@ -1,3 +1,6 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/renatosampaio81/testesgit)
+![GitHub](https://img.shields.io/github/license/renatosampaio81/testesgit)
+![GitHub watchers](https://img.shields.io/github/watchers/renatosampaio81/testesgit?label=Watch&style=social)
 # Testes com Git e GitHub
 ## Primeiros passos no git e github
 Teste de Descrição
